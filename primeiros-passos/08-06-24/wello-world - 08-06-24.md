@@ -1,4 +1,5 @@
 
+
 Melhor ainda, a linguagem foi projetada para guiá-lo naturalmente em direção a um código confiável e eficiente em termos de velocidade e uso de memória.
 
 
