@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "8b47c066b6d1aeae",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf45fd680e56b52d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b5b611ef5ee05d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "primeiros-passos/08-06-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71fcbae09ec90c1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da6493bd4c62d9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee9c6097e48e40bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce4e8bf84d5fda9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "126ead003d6db559",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9625e9b436a53a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0f424f84761a962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc90b6fdcaf5752",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "primeiros-passos/08-06-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25a10ee12cfe8b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "primeiros-passos/08-06-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dd3f33760a74b3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca5e0dd49c4c258c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "primeiros-passos/08-06-24.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ee9c6097e48e40bd",
+  "lastOpenFiles": [
+    "primeiros-passos/08-06-24.md",
+    "primeiros-passos"
+  ]
+}
