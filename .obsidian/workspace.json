@@ -146,8 +146,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ee9c6097e48e40bd",
+  "active": "f0b5b611ef5ee05d",
   "lastOpenFiles": [
+    "projects/hello_world/Cargo.toml",
+    "projects/hello_world/main",
+    "projects/hello_world/main.main.bc80b724d1b8b0c7-cgu.0.rcgu.o",
+    "projects/hello_world/main.4uibsh26a5rhkege.rcgu.o",
+    "projects/hello_world/main.rs",
+    "projects/hello_world",
+    "projects",
     "primeiros-passos/08-06-24.md",
     "primeiros-passos"
   ]
