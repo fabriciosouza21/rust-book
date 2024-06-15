@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-capitulo/Programming a guessing game.md",
+                "file": "common programing concepts/Variáveis ​​e Mutabilidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-capitulo/Programming a guessing game.md",
+                "file": "common programing concepts/Variáveis ​​e Mutabilidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-capitulo/Programming a guessing game.md",
+                "file": "common programing concepts/Variáveis ​​e Mutabilidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-capitulo/Programming a guessing game.md"
+                "file": "common programing concepts/Variáveis ​​e Mutabilidade.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "194c312dcd4db859",
   "lastOpenFiles": [
-    "08-06-24/wello-carga - 08-06-24.md",
+    "common programing concepts",
     "2-capitulo/Programming a guessing game.md",
+    "common programing concepts/Variáveis ​​e Mutabilidade.md",
+    "08-06-24/wello-carga - 08-06-24.md",
     "08-06-24/wello-world - 08-06-24.md"
   ]
 }
