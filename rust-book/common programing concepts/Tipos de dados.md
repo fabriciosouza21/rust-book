@@ -1,4 +1,6 @@
 
+15-06-24
+
 rust é uma linguagem de tipagem estática
 
 ## conversão 
