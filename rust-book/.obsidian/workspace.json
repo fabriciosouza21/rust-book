@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "82134816c3bfb26e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1492bf780f02ced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "194c312dcd4db859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-capitulo/Programming a guessing game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a853c85e6d8457a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6164ffeb7461eb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52ad4f0feab19946",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3990387eb5f1c493",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b549ced49e71a1a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb786b0710479910",
+    "type": "split",
+    "children": [
+      {
+        "id": "84c1f9318dabbd8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "851fcf6406705303",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2-capitulo/Programming a guessing game.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35ff6b2b15275476",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2-capitulo/Programming a guessing game.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbbdfe41c69e0c60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d1a7a89c4e6c2e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2-capitulo/Programming a guessing game.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "194c312dcd4db859",
+  "lastOpenFiles": [
+    "08-06-24/wello-carga - 08-06-24.md",
+    "2-capitulo/Programming a guessing game.md",
+    "08-06-24/wello-world - 08-06-24.md"
+  ]
+}
