@@ -63,6 +63,7 @@ Os rótulos de loop devem começar com aspas simples
 
 O loop externo tem o rótulo `'counting_up`e contará de 0 a 2. O loop interno sem rótulo conta regressivamente de 10 a 9. O primeiro `break`que não especificar um rótulo sairá apenas do loop interno. A `break 'counting_up;`instrução sairá do loop externo. 
 
+O rotulo serve para da o nome ao loop é muito util, quando temos loop alinhados e queremos finalizar o loop mais externo
 
 ### loops condicionais com while
  
