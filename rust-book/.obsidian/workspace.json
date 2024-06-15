@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common programing concepts/Variáveis ​​e Mutabilidade.md",
+                "file": "common programing concepts/Tipos de dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common programing concepts/Variáveis ​​e Mutabilidade.md",
+                "file": "common programing concepts/Tipos de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common programing concepts/Variáveis ​​e Mutabilidade.md",
+                "file": "common programing concepts/Tipos de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common programing concepts/Variáveis ​​e Mutabilidade.md"
+                "file": "common programing concepts/Tipos de dados.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "194c312dcd4db859",
   "lastOpenFiles": [
+    "Pasted image 20240615123449.png",
+    "Pasted image 20240615123433.png",
+    "Pasted image 20240615122645.png",
+    "common programing concepts/Variáveis ​​e Mutabilidade.md",
+    "common programing concepts/Tipos de dados.md",
     "common programing concepts",
     "2-capitulo/Programming a guessing game.md",
-    "common programing concepts/Variáveis ​​e Mutabilidade.md",
     "08-06-24/wello-carga - 08-06-24.md",
     "08-06-24/wello-world - 08-06-24.md"
   ]
