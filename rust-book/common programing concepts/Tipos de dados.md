@@ -143,6 +143,8 @@ fn main() {
 
 ### Tipo array
 
+tem tamanho fixo e vetor tem tamanho variavel
+
  ``` rust
  fn main() {
     let a = [1, 2, 3, 4, 5];
