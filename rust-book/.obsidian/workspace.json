@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entendendo propriedade/ownership.md",
+                "file": "entendendo propriedade/Referência e empréstimos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entendendo propriedade/ownership.md",
+                "file": "entendendo propriedade/Referência e empréstimos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "entendendo propriedade/ownership.md",
+                "file": "entendendo propriedade/Referência e empréstimos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entendendo propriedade/ownership.md"
+                "file": "entendendo propriedade/Referência e empréstimos.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "194c312dcd4db859",
   "lastOpenFiles": [
+    "entendendo propriedade/ownership.md",
+    "entendendo propriedade/Referência e empréstimos.md",
     "Pasted image 20240622130312.png",
     "Pasted image 20240622125553.png",
     "Pasted image 20240622122723.png",
     "Pasted image 20240622122656.png",
     "common programing concepts/comentario.md",
-    "entendendo propriedade/ownership.md",
     "entendendo propriedade",
     "common programing concepts/controle de fluxo.md",
     "common programing concepts/Variáveis ​​e Mutabilidade.md",
