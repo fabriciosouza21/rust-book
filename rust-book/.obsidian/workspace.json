@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common programing concepts/controle de fluxo.md",
+                "file": "entendendo propriedade/ownership.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common programing concepts/controle de fluxo.md",
+                "file": "entendendo propriedade/ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common programing concepts/controle de fluxo.md",
+                "file": "entendendo propriedade/ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common programing concepts/controle de fluxo.md"
+                "file": "entendendo propriedade/ownership.md"
               }
             }
           }
@@ -148,7 +148,13 @@
   },
   "active": "194c312dcd4db859",
   "lastOpenFiles": [
+    "Pasted image 20240622130312.png",
+    "Pasted image 20240622125553.png",
+    "Pasted image 20240622122723.png",
+    "Pasted image 20240622122656.png",
     "common programing concepts/comentario.md",
+    "entendendo propriedade/ownership.md",
+    "entendendo propriedade",
     "common programing concepts/controle de fluxo.md",
     "common programing concepts/Variáveis ​​e Mutabilidade.md",
     "common programing concepts/Tipos de dados.md",
