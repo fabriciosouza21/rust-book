@@ -67,6 +67,7 @@ fn main() {
 }
 
  // Usando sintaxe simplificada de inicialização de campos
+// Similar ao javascript
 fn build_user(email: String, username: String) -> User {
     User {
         active: true,
