@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entendendo propriedade/Referência e empréstimos.md",
+                "file": "entendendo propriedade/slice type.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entendendo propriedade/Referência e empréstimos.md",
+                "file": "entendendo propriedade/slice type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "entendendo propriedade/Referência e empréstimos.md",
+                "file": "entendendo propriedade/slice type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entendendo propriedade/Referência e empréstimos.md"
+                "file": "entendendo propriedade/slice type.md"
               }
             }
           }
@@ -148,21 +148,23 @@
   },
   "active": "194c312dcd4db859",
   "lastOpenFiles": [
-    "entendendo propriedade/ownership.md",
     "entendendo propriedade/Referência e empréstimos.md",
-    "Pasted image 20240622130312.png",
-    "Pasted image 20240622125553.png",
-    "Pasted image 20240622122723.png",
-    "Pasted image 20240622122656.png",
+    "entendendo propriedade/ownership.md",
+    "entendendo propriedade/Pasted image 20240623103358.png",
+    "entendendo propriedade/Pasted image 20240622130312.png",
+    "common programing concepts/Pasted image 20240615123449.png",
+    "common programing concepts/Pasted image 20240615123433.png",
+    "common programing concepts/Pasted image 20240615122645.png",
+    "entendendo propriedade/slice type.md",
+    "entendendo propriedade/Pasted image 20240622125553.png",
+    "entendendo propriedade/Pasted image 20240622122723.png",
+    "entendendo propriedade/Pasted image 20240622122656.png",
     "common programing concepts/comentario.md",
     "entendendo propriedade",
     "common programing concepts/controle de fluxo.md",
     "common programing concepts/Variáveis ​​e Mutabilidade.md",
     "common programing concepts/Tipos de dados.md",
     "common programing concepts/funções.md",
-    "Pasted image 20240615123449.png",
-    "Pasted image 20240615123433.png",
-    "Pasted image 20240615122645.png",
     "common programing concepts",
     "2-capitulo/Programming a guessing game.md",
     "08-06-24/wello-carga - 08-06-24.md",
