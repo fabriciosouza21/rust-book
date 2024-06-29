@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primeiros-passos/08-06-24/wello-carga - 08-06-24.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primeiros-passos/08-06-24/wello-carga - 08-06-24.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primeiros-passos/08-06-24/wello-carga - 08-06-24.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primeiros-passos/08-06-24/wello-carga - 08-06-24.md"
+                "file": "readme.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "f0b5b611ef5ee05d",
   "lastOpenFiles": [
-    "projects/hello_cargo/target/debug/hello_cargo.d",
-    "projects/hello_cargo/target/debug/hello_cargo",
-    "projects/hello_cargo/target/debug/deps/hello_cargo-3927e6f5ad229956",
-    "projects/hello_cargo/target/debug/incremental/hello_cargo-35tvay3tk63df/s-gwxgetltm2-1f3bmx3-8ow2hgzl6bg4h6pcxx0qivwet/yotwxn2cgw6w62s.o",
-    "projects/hello_cargo/target/debug/incremental/hello_cargo-35tvay3tk63df/s-gwxgetltm2-1f3bmx3-8ow2hgzl6bg4h6pcxx0qivwet/work-products.bin",
-    "projects/hello_cargo/target/debug/incremental/hello_cargo-35tvay3tk63df/s-gwxgetltm2-1f3bmx3-8ow2hgzl6bg4h6pcxx0qivwet/query-cache.bin",
-    "projects/hello_cargo/target/debug/incremental/hello_cargo-35tvay3tk63df/s-gwxgetltm2-1f3bmx3-8ow2hgzl6bg4h6pcxx0qivwet/dep-graph.bin",
-    "projects/hello_cargo/target/debug/incremental/hello_cargo-35tvay3tk63df/s-gwxgetltm2-1f3bmx3-8ow2hgzl6bg4h6pcxx0qivwet/4dk6zuf1rwlnuzzx.o",
-    "projects/hello_cargo/target/debug/incremental/hello_cargo-35tvay3tk63df/s-gwxgetltm2-1f3bmx3-8ow2hgzl6bg4h6pcxx0qivwet/3yn0gloktnzo7heo.o",
-    "projects/hello_cargo/target/debug/incremental/hello_cargo-35tvay3tk63df/s-gwxgetltm2-1f3bmx3-8ow2hgzl6bg4h6pcxx0qivwet/3w97ma7t1nugnwfz.o",
-    "projects/hello_cargo/target/debug/incremental/hello_cargo-35tvay3tk63df/s-gwxgetltm2-1f3bmx3-8ow2hgzl6bg4h6pcxx0qivwet/34r4qdm9sa2715am.o",
+    "projects/enum_learn/target/debug/incremental/enum_learn-1volbcdkuq8kt/s-gxkuqhbjr8-nx4098-2udkd2jbx0rrdv1h2vlg3tfdh/work-products.bin",
+    "projects/enum_learn/target/debug/incremental/enum_learn-1volbcdkuq8kt/s-gxkuqhbjr8-nx4098-2udkd2jbx0rrdv1h2vlg3tfdh/query-cache.bin",
+    "projects/enum_learn/target/debug/incremental/enum_learn-1volbcdkuq8kt/s-gxkuqhbjr8-nx4098-2udkd2jbx0rrdv1h2vlg3tfdh/dep-graph.bin",
+    "projects/enum_learn/target/debug/incremental/enum_learn-1volbcdkuq8kt/s-gxkuqhbjr8-nx4098-2udkd2jbx0rrdv1h2vlg3tfdh",
+    "projects/enum_learn/target/debug/incremental/enum_learn-217y5bi8mlv0x/s-gxkuqhbjrc-wer6j0-2iryz807mi2x6yxclnxulb1nn/work-products.bin",
+    "projects/enum_learn/target/debug/incremental/enum_learn-217y5bi8mlv0x/s-gxkuqhbjrc-wer6j0-2iryz807mi2x6yxclnxulb1nn/query-cache.bin",
+    "projects/enum_learn/target/debug/incremental/enum_learn-217y5bi8mlv0x/s-gxkuqhbjrc-wer6j0-2iryz807mi2x6yxclnxulb1nn/dep-graph.bin",
+    "projects/enum_learn/target/debug/incremental/enum_learn-217y5bi8mlv0x/s-gxkuqhbjrc-wer6j0-2iryz807mi2x6yxclnxulb1nn",
+    "projects/enum_learn/target/debug/incremental/enum_learn-1volbcdkuq8kt/s-gxkuqhbjr8-nx4098-working/work-products.bin",
+    "projects/enum_learn/target/debug/incremental/enum_learn-1volbcdkuq8kt/s-gxkuqhbjr8-nx4098-working/query-cache.bin",
+    "projects/enum_learn/target/debug/incremental/enum_learn-1volbcdkuq8kt/s-gxkuqhbjr8-nx4098-working/dep-graph.part.bin",
     "primeiros-passos/08-06-24/wello-world - 08-06-24.md",
     "primeiros-passos/08-06-24/wello-carga - 08-06-24.md",
     "primeiros-passos/08-06-24.md"
