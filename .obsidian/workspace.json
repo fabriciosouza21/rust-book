@@ -148,6 +148,10 @@
   },
   "active": "f0b5b611ef5ee05d",
   "lastOpenFiles": [
+    "rust-book/common_collections/storing_keys_with_asssociated_values_in_hash_maps.md",
+    "rust-book/common_collections/storing_uft8_text_string.md",
+    "rust-book/common_collections/storing_list_of_values_with_vectors.md",
+    "rust-book/common_collections",
     "rust-book/match/match.md",
     "rust-book/match/Concise Control Flow with if let.md",
     "readme.md",
@@ -160,7 +164,6 @@
     "projects/enum_learn/target/debug/incremental/enum_learn-217y5bi8mlv0x/s-gxkuqhbjrc-wer6j0-2iryz807mi2x6yxclnxulb1nn/query-cache.bin",
     "projects/enum_learn/target/debug/incremental/enum_learn-217y5bi8mlv0x/s-gxkuqhbjrc-wer6j0-2iryz807mi2x6yxclnxulb1nn/dep-graph.bin",
     "projects/enum_learn/target/debug/incremental/enum_learn-217y5bi8mlv0x/s-gxkuqhbjrc-wer6j0-2iryz807mi2x6yxclnxulb1nn",
-    "projects/enum_learn/target/debug/incremental/enum_learn-1volbcdkuq8kt/s-gxkuqhbjr8-nx4098-working/work-products.bin",
     "primeiros-passos/08-06-24/wello-world - 08-06-24.md",
     "primeiros-passos/08-06-24/wello-carga - 08-06-24.md",
     "primeiros-passos/08-06-24.md"
