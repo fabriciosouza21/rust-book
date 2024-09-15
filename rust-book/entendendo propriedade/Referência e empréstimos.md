@@ -39,7 +39,9 @@ fn change(some_string: &mut String) {
 não pode existir duas referencias mutáveis para o mesmo  valor, o código baixo gerar um error
 
  ``` rust  
- let mut s = String::from("hello"); let r1 = &mut s; let r2 = &mut s; println!("{}, {}", r1, r2);
+ let mut s = String::from("hello");
+ let r1 = &mut s; let r2 = &mut s;
+ println!("{}, {}", r1, r2);
  ```
 
 rust tentar evitar a corrida por dados, quando trabalhamos com referencias mutáveis, os três principais aspectos são:
@@ -51,7 +53,8 @@ rust tentar evitar a corrida por dados, quando trabalhamos com referencias mutá
 podemos criar um novo escopo para ter múltiplas referencias mutáveis, mas ela não vao ser simulantes 
 
  ``` rust
- let mut s = String::from("hello"); { let r1 = &mut s; } // r1 goes out of scope here, so we can make a new reference with no problems. let r2 = &mut s;
+ let mut s = String::from("hello");
+{ let r1 = &mut s; } // r1 goes out of scope here, so we can make a new reference with no problems. let r2 = &mut s;
   ```
 
 Rust impõe regras semelhantes para combinar referências mutáveis e imutáveis, o codigo abaixo resulta em error, não possivel ter uma referencia mutável, enquanto tivermos uma imutável com o mesmo valor
